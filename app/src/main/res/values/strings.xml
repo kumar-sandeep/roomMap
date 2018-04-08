@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SqliteMap</string>
+    <string name="view">View</string>
+    <string name="search">Search</string>
+    <string name="searchplaces">Search Places</string>
+    <string name="save_this_location">Save Location</string>
+</resources>
